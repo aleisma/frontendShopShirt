@@ -1,0 +1,49 @@
+html {
+  height: 100%;
+  box-sizing: border-box;
+  
+}
+*, *:before, *:after {
+box-sizing: inherit;
+}
+body {
+  font-family: arial,helvetica, sans-serif;
+  height: 100%;
+  margin: 0;
+  
+  background: #4d054e; /* Old browsers */
+  background: -moz-linear-gradient(top, #3e27c2 0%, #120588 47%, #5588aa 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #21087a 0%,#180a69 47%,#120755 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #24194b 0%,#250364 47%,#b969b5 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e570e7', endColorstr='#a849a3',GradientType=0 );
+  margin-bottom: 10rem;
+}
+header {
+text-align: center;
+padding: 20px 0;
+}
+div.contenedor {
+  max-width: 800px;
+  width: 95%;
+  margin: 0 auto;
+}
+div.hero img {
+  width: 100%;
+}
+h2 {
+text-align: center;
+color: white;
+text-transform: uppercase;
+}
+h1 {
+  color: white;
+}
+.danger{
+color: rgb(230, 84, 84);
+
+}
+p{
+  color: rgb(241, 241, 232);
+}
