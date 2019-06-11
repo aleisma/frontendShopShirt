@@ -8,7 +8,7 @@ Este proyecto es un SPA (single page application) es una tienda virtual de camis
 
 
 PUEDES PROBARLO ONLINE EN EL SIGUIENTE LINK :)
-https://frontendshopshirt.firebaseapp.com/nosotros
+https://frontendshopshirt.firebaseapp.com/
 
 
        INICIALIZANDO PROJECTO:
